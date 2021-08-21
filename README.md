@@ -2,3 +2,6 @@
 
 --THIS IS JUST ME PRACTICING FRONT END DEVELOPMENT FROM DESIGN COURSE ON YOUTUBE--
 
+![app](https://user-images.githubusercontent.com/67852370/130326331-bad35ebb-4c58-4171-8ff5-d4cb33566a3d.png)
+
+
